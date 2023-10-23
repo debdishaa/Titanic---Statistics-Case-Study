@@ -1,4 +1,4 @@
-# Titanic---Statistics-Case-Study
+# Titanic- Statistics Case Study
 
 Titanic Dataset Details
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
